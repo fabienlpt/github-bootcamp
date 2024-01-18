@@ -54,3 +54,13 @@ Pour enregistrer vos modifications dans le dépôt, suivez ces étapes :
    ```bash
    git commit -m "Votre message de commit"
    ```
+
+---
+
+## Créer une nouvelle branche
+
+Pour créer une nouvelle branche dans Git, utilisez la commande suivante :
+
+```bash
+git branch feature/branching
+```
