@@ -15,3 +15,4 @@ Le projet est hébergé sur Vercel et peut être accédé via le lien suivant : 
 Le bootcamp couvre les sujets suivants :
 - Commandes de base de Git.
 - Création et gestion des branches.
+- Gestion de pull requests.
