@@ -115,3 +115,11 @@ Pour récupérer les changements depuis un dépôt distant sur GitHub, utilisez 
 ```bash
 git pull origin <nom-de-branche>
 ```
+
+---
+
+## Texte
+
+Ceci est un exemple de texte dans une diapositive Markdown. Vous pouvez utiliser le Markdown pour formater le texte, créer des listes, des liens, etc.
+
+Voici un paragraphe d'exemple.
