@@ -158,3 +158,17 @@ Vous pouvez afficher des blocs de code ou des snippets de code dans Markdown.
 ```javascript
 console.log("Ceci est un snippet de code JavaScript.");
 ```
+
+
+#### 6. Diapositive "Extras"
+
+```markdown
+---
+
+## Extras
+
+Markdown offre également des fonctionnalités supplémentaires comme les listes de tâches, parfaites pour les listes de vérification ou les objectifs.
+
+- [x] Tâche accomplie
+- [ ] Tâche en attente
+
