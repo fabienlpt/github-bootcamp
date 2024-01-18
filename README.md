@@ -1,15 +1,17 @@
-# ex1
+# GitHub Bootcamp
 
-Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
+Ce projet est conçu pour enseigner les bases de Git. Il offre une série de diapositives et d'exercices interactifs pour aider les débutants à comprendre et à utiliser efficacement Git.
 
-## Running your presentation
+## Description
 
-- Run `yarn install` (or `npm install` or `pnpm install`) to install dependencies.
-- Run `yarn start` (or `npm start` or `pnpm start`) to start the presentation.
-- Edit `index.tsx to add your presentation content.
+Le GitHub Bootcamp est une ressource éducative interactive axée sur l'apprentissage des commandes fondamentales de Git ainsi que la gestion des branches. Ce projet est idéal pour les personnes débutant avec Git ou cherchant à rafraîchir leurs connaissances.
 
-## Building you presentation
+## Accès au Projet
 
-To build your presentation for a production deploy, run `yarn build` (or `npm build` or `pnpm build`).
+Le projet est hébergé sur Vercel et peut être accédé via le lien suivant : [GitHub Bootcamp](https://github-bootcamp-4wulzukr4-fabienlpts-projects.vercel.app/?slideIndex=0&stepIndex=0)
 
-The build artifacts will be placed in the `dist` directory. If you'd like to change this location, edit `output.path` in `webpack.config.js`.
+## Contenu
+
+Le bootcamp couvre les sujets suivants :
+- Commandes de base de Git.
+- Création et gestion des branches.
