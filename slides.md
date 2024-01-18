@@ -62,5 +62,17 @@ Pour enregistrer vos modifications dans le dépôt, suivez ces étapes :
 Pour créer une nouvelle branche dans Git, utilisez la commande suivante :
 
 ```bash
-git branch feature/branching
+git branch <nom-de-branche>
 ```
+
+---
+
+## Travailler sur une branche
+
+Pour travailler sur une branche spécifique, utilisez la commande suivante :
+
+```bash
+git checkout <nom-de-branche>
+```
+
+
