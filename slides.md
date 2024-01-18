@@ -105,3 +105,13 @@ Pour envoyer vos modifications locales à un dépôt distant sur GitHub, utilise
 ```bash
 git push origin <nom-de-branche>
 ```
+
+---
+
+## Récupérer les Changements depuis un Dépôt Distant
+
+Pour récupérer les changements depuis un dépôt distant sur GitHub, utilisez la commande :
+
+```bash
+git pull origin <nom-de-branche>
+```
