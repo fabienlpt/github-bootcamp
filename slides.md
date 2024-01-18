@@ -115,3 +115,60 @@ Pour récupérer les changements depuis un dépôt distant sur GitHub, utilisez 
 ```bash
 git pull origin <nom-de-branche>
 ```
+
+---
+
+## Texte
+
+Ceci est un exemple de texte dans une diapositive Markdown. Vous pouvez utiliser le Markdown pour formater le texte, créer des listes, des liens, etc.
+
+Voici un paragraphe d'exemple.
+
+---
+
+## Listes
+
+- Élément de liste à puce
+- Un autre élément
+
+1. Élément de liste numérotée
+2. Un autre élément numéroté
+
+---
+
+## Images
+
+![image](https://placehold.co/400)
+
+---
+
+## En-têtes et Citations
+
+### Ceci est un En-têtes
+
+> Ceci est une citation.
+> - Auteur
+
+---
+
+## Code
+
+Vous pouvez afficher des blocs de code ou des snippets de code dans Markdown.
+
+```javascript
+console.log("Ceci est un snippet de code JavaScript.");
+```
+
+
+#### 6. Diapositive "Extras"
+
+```markdown
+---
+
+## Extras
+
+Markdown offre également des fonctionnalités supplémentaires comme les listes de tâches, parfaites pour les listes de vérification ou les objectifs.
+
+- [x] Tâche accomplie
+- [ ] Tâche en attente
+
