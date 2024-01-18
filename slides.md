@@ -88,4 +88,10 @@ git merge <nom-de-branche>
 
 ---
 
+## Supprimer une branche
 
+Pour supprimer une branche, utilisez la commande suivante :
+
+```bash
+git branch -d <nom-de-branche>
+```
