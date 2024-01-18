@@ -35,3 +35,22 @@ Pour voir les différences dans les fichiers modifiés, utilisez :
 ```bash
 git diff
 ```
+
+
+---
+
+## Comment commit des changements
+
+Pour enregistrer vos modifications dans le dépôt, suivez ces étapes :
+
+1. Ajoutez les fichiers modifiés à la zone de staging :
+
+   ```bash
+   git add <fichier>
+   ```
+
+2. Faites le commit des modifications :
+
+   ```bash
+   git commit -m "Votre message de commit"
+   ```
