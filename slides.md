@@ -159,10 +159,6 @@ Vous pouvez afficher des blocs de code ou des snippets de code dans Markdown.
 console.log("Ceci est un snippet de code JavaScript.");
 ```
 
-
-#### 6. Diapositive "Extras"
-
-```markdown
 ---
 
 ## Extras
@@ -172,3 +168,14 @@ Markdown offre également des fonctionnalités supplémentaires comme les listes
 - [x] Tâche accomplie
 - [ ] Tâche en attente
 
+
+---
+
+
+## Comment automatiser la fermeture des issues
+
+Pour automatiser la fermeture des issues, utilisez la commande suivante :
+
+```bash
+git commit -m "Votre message de commit" -m "close #issue-number"
+```
