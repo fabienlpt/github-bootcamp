@@ -95,3 +95,13 @@ Pour supprimer une branche, utilisez la commande suivante :
 ```bash
 git branch -d <nom-de-branche>
 ```
+
+---
+
+## Pousser des Changements vers un Dépôt Distant
+
+Pour envoyer vos modifications locales à un dépôt distant sur GitHub, utilisez la commande :
+
+```bash
+git push origin <nom-de-branche>
+```
