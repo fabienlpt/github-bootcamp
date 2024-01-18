@@ -75,4 +75,17 @@ Pour travailler sur une branche spécifique, utilisez la commande suivante :
 git checkout <nom-de-branche>
 ```
 
+---
+
+## Fusionner une branche sur `main`
+
+Pour fusionner une branche sur `main`, utilisez la commande suivante :
+
+```bash
+git checkout main
+git merge <nom-de-branche>
+```
+
+---
+
 
