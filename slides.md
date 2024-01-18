@@ -148,3 +148,13 @@ Voici un paragraphe d'exemple.
 
 > Ceci est une citation.
 > - Auteur
+
+---
+
+## Code
+
+Vous pouvez afficher des blocs de code ou des snippets de code dans Markdown.
+
+```javascript
+console.log("Ceci est un snippet de code JavaScript.");
+```
