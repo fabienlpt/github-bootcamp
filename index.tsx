@@ -9,7 +9,7 @@ const customTheme = {
   ...defaultTheme,
   colors: {
     primary: '#f6f7f0',
-    secondary: '#f6f7f0',
+    secondary: '#ff0000',
     tertiary: '#333333',
   },
   fonts: {
