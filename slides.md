@@ -123,3 +123,13 @@ git pull origin <nom-de-branche>
 Ceci est un exemple de texte dans une diapositive Markdown. Vous pouvez utiliser le Markdown pour formater le texte, créer des listes, des liens, etc.
 
 Voici un paragraphe d'exemple.
+
+---
+
+## Listes
+
+- Élément de liste à puce
+- Un autre élément
+
+1. Élément de liste numérotée
+2. Un autre élément numéroté
