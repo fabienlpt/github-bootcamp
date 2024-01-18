@@ -133,3 +133,10 @@ Voici un paragraphe d'exemple.
 
 1. Élément de liste numérotée
 2. Un autre élément numéroté
+
+---
+
+## Images
+
+
+![image](https://placehold.co/400)
