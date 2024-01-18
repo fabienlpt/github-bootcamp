@@ -19,3 +19,19 @@ Pour initialiser un nouveau dépôt Git, utilisez la commande suivante dans votr
 
 ```bash
 git init
+```
+---
+
+## Comment réviser les changements
+
+Pour voir quels fichiers ont été modifiés depuis le dernier commit, utilisez :
+
+```bash
+git status
+```
+
+Pour voir les différences dans les fichiers modifiés, utilisez :
+
+```bash
+git diff
+```
