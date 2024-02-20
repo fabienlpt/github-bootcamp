@@ -4,15 +4,6 @@
 
 ---
 
-## This is my slide
-
----
-
-## Happy Hacking
-
-
----
-
 ## Comment initialiser un nouveau dépôt
 
 Pour initialiser un nouveau dépôt Git, utilisez la commande suivante dans votre terminal :
@@ -39,7 +30,7 @@ git diff
 
 ---
 
-## Comment commit des changements
+## Comment enregister des changements
 
 Pour enregistrer vos modifications dans le dépôt, suivez ces étapes :
 
